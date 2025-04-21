@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jmrashed/zkteco": "^1.0"
+    }
+}
